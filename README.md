@@ -1,2 +1,2 @@
-# Learning-JavaScript
-Learning JavaScript with practical
+# Learning JavaScript
+#### Welcome to the repository for Learning JavaScript
